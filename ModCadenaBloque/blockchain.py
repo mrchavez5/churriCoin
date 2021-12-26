@@ -3,7 +3,7 @@
 """
 Created on Wed Nov  3 12:00:23 2021
 
-@author: mrchavez5
+@author: bjcdevelop
 """
 
 #Modulo 1 - Cadena de Bloques
